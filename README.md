@@ -15,7 +15,7 @@ https://rpb543.github.io/portfolio-react-rpb/
 
 
 ## Screenshot
-<img src=".src/assets/screenshot.png" >
+<img src="/src/assets/screenshot.png" >
 
 
 .
