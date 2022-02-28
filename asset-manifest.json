@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio-react-rpb/static/css/main.7e6786a6.css",
-    "main.js": "/portfolio-react-rpb/static/js/main.5bd23521.js",
-    "static/js/787.c36d8a6b.chunk.js": "/portfolio-react-rpb/static/js/787.c36d8a6b.chunk.js",
-    "static/media/dog-in-party-hat.jpg": "/portfolio-react-rpb/static/media/dog-in-party-hat.9166645829ebf50b5c68.jpg",
-    "static/media/Sendajoke.png": "/portfolio-react-rpb/static/media/Sendajoke.a3ec9204bf68d27a4195.png",
-    "static/media/hero-bg1.jpg": "/portfolio-react-rpb/static/media/hero-bg1.e14d2a7f2a9012e7dc09.jpg",
-    "static/media/weather.png": "/portfolio-react-rpb/static/media/weather.685be4e9a1be77fc6b34.png",
-    "static/media/techblog.png": "/portfolio-react-rpb/static/media/techblog.81c9a106ab7d8a38e03f.png",
-    "static/media/budget-tracker.png": "/portfolio-react-rpb/static/media/budget-tracker.8a410502c3cce224abe7.png",
-    "static/media/notetaker.png": "/portfolio-react-rpb/static/media/notetaker.18f1eb9e17773944ffd9.png",
-    "static/media/github.svg": "/portfolio-react-rpb/static/media/github.55ca2802304ddd5459e3.svg",
-    "static/media/email.svg": "/portfolio-react-rpb/static/media/email.bdd58fc466cf53d048c0.svg",
-    "static/media/link.svg": "/portfolio-react-rpb/static/media/link.e583fde0cd7044860059.svg",
-    "index.html": "/portfolio-react-rpb/index.html",
-    "main.7e6786a6.css.map": "/portfolio-react-rpb/static/css/main.7e6786a6.css.map",
-    "main.5bd23521.js.map": "/portfolio-react-rpb/static/js/main.5bd23521.js.map",
-    "787.c36d8a6b.chunk.js.map": "/portfolio-react-rpb/static/js/787.c36d8a6b.chunk.js.map"
+    "main.css": "/port-react-rpb/static/css/main.f625ff27.css",
+    "main.js": "/port-react-rpb/static/js/main.6c1fc4b1.js",
+    "static/js/787.c36d8a6b.chunk.js": "/port-react-rpb/static/js/787.c36d8a6b.chunk.js",
+    "static/media/dog-in-party-hat.jpg": "/port-react-rpb/static/media/dog-in-party-hat.9166645829ebf50b5c68.jpg",
+    "static/media/Sendajoke.png": "/port-react-rpb/static/media/Sendajoke.a3ec9204bf68d27a4195.png",
+    "static/media/hero-bg1.jpg": "/port-react-rpb/static/media/hero-bg1.e14d2a7f2a9012e7dc09.jpg",
+    "static/media/weather.png": "/port-react-rpb/static/media/weather.685be4e9a1be77fc6b34.png",
+    "static/media/techblog.png": "/port-react-rpb/static/media/techblog.81c9a106ab7d8a38e03f.png",
+    "static/media/budget-tracker.png": "/port-react-rpb/static/media/budget-tracker.8a410502c3cce224abe7.png",
+    "static/media/notetaker.png": "/port-react-rpb/static/media/notetaker.18f1eb9e17773944ffd9.png",
+    "static/media/github.svg": "/port-react-rpb/static/media/github.55ca2802304ddd5459e3.svg",
+    "static/media/email.svg": "/port-react-rpb/static/media/email.bdd58fc466cf53d048c0.svg",
+    "static/media/link.svg": "/port-react-rpb/static/media/link.e583fde0cd7044860059.svg",
+    "index.html": "/port-react-rpb/index.html",
+    "main.f625ff27.css.map": "/port-react-rpb/static/css/main.f625ff27.css.map",
+    "main.6c1fc4b1.js.map": "/port-react-rpb/static/js/main.6c1fc4b1.js.map",
+    "787.c36d8a6b.chunk.js.map": "/port-react-rpb/static/js/787.c36d8a6b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e6786a6.css",
-    "static/js/main.5bd23521.js"
+    "static/css/main.f625ff27.css",
+    "static/js/main.6c1fc4b1.js"
   ]
 }
