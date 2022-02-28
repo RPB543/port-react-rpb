@@ -21,4 +21,4 @@ https://rpb543.github.io/portfolio-react-rpb/
 .
 
 ## Questions
-If you have any question please check out my GitHub https://github.com/RPB543 
+If you have any question please check out my GitHub https://github.com/RPB543.  Link to old repo is here: https://github.com/RPB543/portfolio-react-rpb
