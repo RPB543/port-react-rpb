@@ -11,7 +11,7 @@ Developed portfolio of projects using React.
 
 ## Link
 Checkout out my site!
-https://rpb543.github.io/portf-react-rpb/
+https://rpb543.github.io/port-react-rpb/
 
 
 ## Screenshot
