@@ -41,6 +41,13 @@ function Portfolio() {
             <span>Handlebars/SQL/Express</span>
           </div>
         </a>
+
+        <a href="https://enigmatic-basin-52191.herokuapp.com/" target="blank" class="grid-item tech-blog">
+          <div>
+            <h3>Conscious Shopper</h3>
+            <span>React/MongoDB/Express</span>
+          </div>
+        </a>
         
       </div>
     </section>
