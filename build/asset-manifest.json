@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/port-react-rpb/static/css/main.f625ff27.css",
-    "main.js": "/port-react-rpb/static/js/main.6c1fc4b1.js",
+    "main.js": "/port-react-rpb/static/js/main.eeb34369.js",
     "static/js/787.c36d8a6b.chunk.js": "/port-react-rpb/static/js/787.c36d8a6b.chunk.js",
     "static/media/dog-in-party-hat.jpg": "/port-react-rpb/static/media/dog-in-party-hat.9166645829ebf50b5c68.jpg",
     "static/media/Sendajoke.png": "/port-react-rpb/static/media/Sendajoke.a3ec9204bf68d27a4195.png",
@@ -15,11 +15,11 @@
     "static/media/link.svg": "/port-react-rpb/static/media/link.e583fde0cd7044860059.svg",
     "index.html": "/port-react-rpb/index.html",
     "main.f625ff27.css.map": "/port-react-rpb/static/css/main.f625ff27.css.map",
-    "main.6c1fc4b1.js.map": "/port-react-rpb/static/js/main.6c1fc4b1.js.map",
+    "main.eeb34369.js.map": "/port-react-rpb/static/js/main.eeb34369.js.map",
     "787.c36d8a6b.chunk.js.map": "/port-react-rpb/static/js/787.c36d8a6b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f625ff27.css",
-    "static/js/main.6c1fc4b1.js"
+    "static/js/main.eeb34369.js"
   ]
 }

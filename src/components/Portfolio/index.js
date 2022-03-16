@@ -42,7 +42,7 @@ function Portfolio() {
           </div>
         </a>
 
-        <a href="https://enigmatic-basin-52191.herokuapp.com/" target="blank" class="grid-item tech-blog">
+        <a href="https://enigmatic-basin-52191.herokuapp.com/" target="blank" class="grid-item shopper">
           <div>
             <h3>Conscious Shopper</h3>
             <span>React/MongoDB/Express</span>

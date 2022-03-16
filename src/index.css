@@ -258,6 +258,10 @@ body::before {
   background-image: url("./assets/techblog.png");
 }
 
+.shopper {
+  background-image: url("./assets/homepage.png");
+}
+
 /* end work images */
 
 
